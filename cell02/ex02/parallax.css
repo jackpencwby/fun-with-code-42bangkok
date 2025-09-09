@@ -1,0 +1,36 @@
+body,
+html {
+    height: 100%;
+}
+
+.parallax-pic-1 {
+    background-image: url("https://a.storyblok.com/f/178900/960x540/6e6bcda041/demon-slayer.jpg/m/filters:quality(95)format(webp)");
+    height: 100%;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.black-block {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 48px;
+    height: 100%;
+}
+
+.parallax-pic-2 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZThiODIxYWYtZWUzYi00NjI3LTk1YTYtNGU4NDc5OGU0NzRlXkEyXkFqcGc@._V1_.jpg");
+    height: 100%;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
